@@ -1,1 +1,1 @@
-# newtons-cradle
+# NEWTONS-CRADLE
